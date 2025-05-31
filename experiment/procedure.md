@@ -1,6 +1,6 @@
 ##  CO₂ Capture & Sequestration Simulator <br>
 
-_### Procedure_<br>
+_ ****Procedure****_ <br>
 
 ****Step 1:-**** Select Capture type.<br>
 ****Step 2:-**** Select Technology.<br>
