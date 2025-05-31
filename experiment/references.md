@@ -8,7 +8,7 @@
 ****BOOKS:-****<br>
 [1] ****CARBON CAPTURE**** by Jennifer Wilcox; Publisher : Springer <br>
 [2] ****Introduction to Carbon Capture and Sequestration****<br>
-Author: Berend Smit, Jeffrey A. Reimer, Curtis M. Oldenburg, Ian C. Bourg<br>
-Publisher: Imperial College Press
+Author :- Berend Smit, Jeffrey A. Reimer, Curtis M. Oldenburg, Ian C. Bourg<br>
+Publisher :- Imperial College Press
 
  
