@@ -1,39 +1,90 @@
-{
+ {
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following is a method of CO₂ capture?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cryogenic distillation",
+        "b": "Chemical looping",
+        "c": "Adsorption",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Cryogenic separation is one approach to CO₂ capture.",
+        "b": "Chemical looping is a valid combustion-based capture method.",
+        "c": "Adsorption uses solid materials to capture CO₂.",
+        "d": "Correct. All listed methods are used in CO₂ capture."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which phase of CCS involves transporting CO₂ to a storage site?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Capture",
+        "b": "Compression",
+        "c": "Transport",
+        "d": "Sequestration"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Capture is the initial phase where CO₂ is separated from emissions.",
+        "b": "Compression prepares CO₂ for transport, but doesn't move it.",
+        "c": "Correct. Transport involves moving CO₂ to a storage site.",
+        "d": "Sequestration is the final phase where CO₂ is stored."
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which of the following is the most commonly used solvent in post-combustion CO₂ capture?",
+      "answers": {
+        "a": "Ammonia",
+        "b": "Monoethanolamine (MEA)",
+        "c": "Sodium hydroxide",
+        "d": "Methanol"
+      },
+      "explanations": {
+        "a": "Ammonia can be used, but it is not the most common.",
+        "b": "Correct. MEA is widely used due to its high CO₂ reactivity.",
+        "c": "Sodium hydroxide is used in other chemical processes, not typically CCS.",
+        "d": "Methanol is not used in standard CO₂ capture systems."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Geological sequestration of CO₂ is typically done in:",
+      "answers": {
+        "a": "Ocean trenches",
+        "b": "Deep saline aquifers",
+        "c": "Mountaintop reservoirs",
+        "d": "Arctic permafrost"
+      },
+      "explanations": {
+        "a": "Ocean trenches are not suitable or secure for CO₂ storage.",
+        "b": "Correct. Deep saline aquifers are widely used for long-term storage.",
+        "c": "Mountaintop reservoirs are not used for CCS.",
+        "d": "Arctic permafrost is unstable for long-term storage."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The main environmental goal of CO₂ capture and sequestration is to:",
+      "answers": {
+        "a": "Improve fuel efficiency",
+        "b": "Reduce greenhouse gas emissions",
+        "c": "Increase oil recovery",
+        "d": "Produce clean water"
+      },
+      "explanations": {
+        "a": "Fuel efficiency may improve indirectly but is not the main goal.",
+        "b": "Correct. CCS is primarily aimed at reducing greenhouse gas emissions.",
+        "c": "Enhanced oil recovery is a possible benefit, not the main goal.",
+        "d": "Water production is not a function of CCS."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     }
   ]
 }
