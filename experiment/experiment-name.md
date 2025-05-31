@@ -1,1 +1,1 @@
-## Experiment name
+## CO₂ Capture & Sequestration Simulator
