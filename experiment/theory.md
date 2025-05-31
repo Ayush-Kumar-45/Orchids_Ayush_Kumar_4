@@ -30,6 +30,7 @@ Carbon Capture and Sequestration (CCS) is a three-step process:
 ---
 
 ****CO₂ Sequestration****<br>
+
 Geological formations used for sequestration must have:<br>
 
 1. High porosity and permeability (for CO₂ injection).
