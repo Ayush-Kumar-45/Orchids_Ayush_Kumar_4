@@ -6,7 +6,7 @@ Carbon dioxide (CO₂) is the major greenhouse gas responsible for global warmin
 
 ---
 
-****What is CCS?****<br>
+****What is CCS?**** <br>
 
 Carbon Capture and Sequestration (CCS) is a three-step process:
 
