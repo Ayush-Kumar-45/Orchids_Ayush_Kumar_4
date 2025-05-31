@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary purpose of CO₂ capture and sequestration (CCS)?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increase fossil fuel usage",
+        "b": "Reduce global temperatures immediately",
+        "c": "Minimize CO₂ emissions from industrial sources",
+        "d": "Produce more carbon for energy generation"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Increasing fossil fuel usage would worsen CO₂ emissions.",
+        "b": "Incorrect. CCS helps reduce emissions but does not instantly affect global temperatures.",
+        "c": "Correct. The main aim of CCS is to minimize CO₂ emissions from industrial sources.",
+        "d": "Incorrect. CCS does not produce carbon; it stores it safely."
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which of the following is a commonly used simulation tool for modeling CCS systems?",
+      "answers": {
+        "a": "AutoCAD",
+        "b": "MATLAB/Simulink",
+        "c": "Aspen Plus",
+        "d": "MS Word"
+      },
+      "explanations": {
+        "a": "Incorrect. AutoCAD is mainly used for drafting and design.",
+        "b": "Incorrect. MATLAB is useful but not specifically for CCS process modeling.",
+        "c": "Correct. Aspen Plus is widely used for process modeling in CCS.",
+        "d": "Incorrect. MS Word is a word processor, not a simulation tool."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In post-combustion CO₂ capture, CO₂ is removed:",
+      "answers": {
+        "a": "Before fuel is burned",
+        "b": "After combustion of the fuel",
+        "c": "During the fuel refining stage",
+        "d": "While mining the fuel"
+      },
+      "explanations": {
+        "a": "Incorrect. Pre-combustion methods remove CO₂ before burning.",
+        "b": "Correct. Post-combustion capture occurs after fuel is burned.",
+        "c": "Incorrect. CO₂ capture does not usually occur during refining.",
+        "d": "Incorrect. Mining is not part of the CO₂ capture process."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is a key risk associated with geological CO₂ sequestration?",
+      "answers": {
+        "a": "CO₂ converting to oxygen",
+        "b": "Earthquake generation",
+        "c": "Leakage of CO₂ back to the atmosphere",
+        "d": "Production of fossil fuels"
+      },
+      "explanations": {
+        "a": "Incorrect. CO₂ does not convert to oxygen underground.",
+        "b": "Partially correct, but not as common as leakage risks.",
+        "c": "Correct. Leakage is a major concern in geological sequestration.",
+        "d": "Incorrect. CO₂ storage does not produce fossil fuels."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which of the following formations is most suitable for long-term CO₂ storage?",
+      "answers": {
+        "a": "Riverbeds",
+        "b": "Saline aquifers",
+        "c": "Forest soils",
+        "d": "Volcano chambers"
+      },
+      "explanations": {
+        "a": "Incorrect. Riverbeds are not secure for CO₂ storage.",
+        "b": "Correct. Saline aquifers are widely used and suitable for long-term storage.",
+        "c": "Incorrect. Forest soils are not viable for deep geological storage.",
+        "d": "Incorrect. Volcano chambers are unstable and unsuitable."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     }
   ]
 }
