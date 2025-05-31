@@ -1,1 +1,1 @@
-### This directory contains flowchart used in [storyboard document](https://github.com/virtual-labs/ph3-exp-dev-process/blob/main/storyboard/README.org).
+ <img src="https://github.com/Ayush-Kumar-45/Orchids_Ayush_Kumar_4/blob/main/experiment/images/co2%20flowchart.png" Height="500 px">
