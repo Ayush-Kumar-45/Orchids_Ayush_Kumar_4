@@ -9,3 +9,7 @@ _****Procedure****<br>_
 ****Step 5:-**** Adjust Pressure.<br>
 ****Step 6:-**** Click on "Run Simulation".<br>
 ****Step 7:-**** Observe Simulation results,Process visualisation and Graphs.<br>
+
+---
+
+<img src="https://github.com/Ayush-Kumar-45/Orchids_Ayush_Kumar_4/blob/main/experiment/images/co2%20flowchart.png" Height="400 px">
