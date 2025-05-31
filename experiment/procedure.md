@@ -8,7 +8,7 @@ _****Procedure****<br>_
 ****Step 4:-**** Adjust Temperature.<br>
 ****Step 5:-**** Adjust Pressure.<br>
 ****Step 6:-**** Click on "Run Simulation".<br>
-****Step 7:-**** Observe Simulation results,Process visualisation and Graphs.<br>
+****Step 7:-**** Observe Simulation results,Process visualization and Graphs.<br>
 
 ---
 
