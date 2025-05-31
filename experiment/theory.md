@@ -17,6 +17,19 @@ Carbon Capture and Sequestration (CCS) is a three-step process:
 3.  Sequestration (Storage): Long-term storage of CO₂ in underground geological formations such as deep saline aquifers, depleted oil/gas fields, or unmineable coal seams.<br>
 
 ---
+****Simulation in CCS****<br>
+
+Virtual simulation tools like Aspen Plus, MATLAB/Simulink, and COMSOL Multiphysics are used to model and analyze the performance of CCS systems. The simulator helps visualize:
+
+1. Mass and energy balances in CO₂ capture units
+
+2. Effect of temperature, pressure, and flow rate on capture efficiency
+
+3. Solvent selection (e.g., Monoethanolamine - MEA)
+
+4. Geological storage modeling and risk assessment
+
+---
 
 ****CO₂ Capture Techniques****
 1. Post-combustion capture: CO₂ is removed after fossil fuel combustion.
