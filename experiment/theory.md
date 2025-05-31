@@ -52,7 +52,12 @@ Geological formations used for sequestration must have:<br>
 
 3. Long-term geochemical stability.<br>
 
-Saline aquifers are among the most commonly used due to their vast capacity and widespread availability.
+Saline aquifers are among the most commonly used due to their vast capacity and widespread availability.<br>
+
+---
+
+
+<img src="https://github.com/Ayush-Kumar-45/Orchids_Ayush_Kumar_4/blob/main/experiment/images/co2%20image.png" Height="500px">
 
 
   
